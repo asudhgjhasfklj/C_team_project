@@ -1,1 +1,1 @@
-# C_team_project
+# C언어 팀프로젝트 8조
